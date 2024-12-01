@@ -1,3 +1,7 @@
 .content{
-    text-align: center;
+    text-align: left;
+}
+
+pre{
+    width: 500px;
 }
